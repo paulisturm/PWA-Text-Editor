@@ -1,9 +1,7 @@
 # PWA-Text-Editor
 
 ## Heroku Link
-
-## Video Link
-
+https://text-editor-module19-0c1ce6fbe281.herokuapp.com/ 
 
 ## User Story
 AS A developer
